@@ -1,0 +1,26 @@
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-parsing/src/test/scala/Tests.scala:83:47: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m required: hw.parsing.Expr[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(ArithEval.eval(Add(Num(1), Num(2)) == (3)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-parsing/src/test/scala/Tests.scala:84:48: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m required: hw.parsing.Expr[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(ArithEval.eval(Sub(Num(10), Num(2)) == (8)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-parsing/src/test/scala/Tests.scala:85:47: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m required: hw.parsing.Expr[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(ArithEval.eval(Mul(Num(5), Num(5)) == (25)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-parsing/src/test/scala/Tests.scala:86:48: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m required: hw.parsing.Expr[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(ArithEval.eval(Div(Num(20), Num(4)) == (5)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-parsing/src/test/scala/Tests.scala:87:52: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m required: hw.parsing.Expr[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(ArithEval.eval(Exponent(Num(3), Num(2)) == (9)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m

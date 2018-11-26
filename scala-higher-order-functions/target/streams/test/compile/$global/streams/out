@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-higher-order-functions/src/test/scala/Tests.scala:33:12: missing argument list for method flatten3 in object HOF[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `flatten3 _` or `flatten3(_)` instead of `flatten3`.[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(flatten3(List(List(List()))) = Nil)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

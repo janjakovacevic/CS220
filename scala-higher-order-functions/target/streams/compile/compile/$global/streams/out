@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-higher-order-functions/src/main/scala/Main.scala:78:26: not found: value helpConcat[0m
+[0m[[0m[31merror[0m] [0m[0m    case head :: tail => helpConcat(helpPartTrue(f, lst), helpPartFalse(f, lst))[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

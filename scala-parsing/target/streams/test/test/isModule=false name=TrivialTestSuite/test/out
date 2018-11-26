@@ -1,0 +1,14 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTrivialTestSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- several objects must be defined[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- 1) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Add(Num(1.0),Num(-2.0)) did not equal Num(-1.0) (Tests.scala:16)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- 2) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Exponent(Num(10.0),Num(3.0)) did not equal Num(1000.0) (Tests.scala:20)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- 3) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Add(Mul(Num(2.0),Num(3.0)),Mul(Num(5.0),Num(-10.0))) did not equal Num(-44.0) (Tests.scala:24)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- 4) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Mul(Mul(Num(2.0),Add(Num(3.0),Num(5.0))),Num(-10.0)) did not equal Num(-160.0) (Tests.scala:28)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- 5) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Mul(Mul(Num(2.0),Exponent(Add(Num(3.0),Num(5.0)),Num(2.0))),Num(-10.0)) did not equal Num(-1280.0) (Tests.scala:32)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- 6) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "2.0*3.0+5.0*2.0*-10.0" did not equal Mul(Mul(Num(2.0),Exponent(Add(Num(3.0),Num(5.0)),Num(2.0))),Num(-10.0)) (Tests.scala:35)[0m[0m

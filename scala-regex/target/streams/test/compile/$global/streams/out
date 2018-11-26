@@ -1,0 +1,64 @@
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:3:10: not found: value Regex[0m
+[0m[[0m[31merror[0m] [0m[0m  import Regex._[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:30:10: not found: value notAlphanumeric[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(notAlphanumeric.pattern.matcher(x1).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:33:10: not found: value notAlphanumeric[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(notAlphanumeric.pattern.matcher(x2).matches == false)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:36:10: not found: value time[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(time.pattern.matcher(b1).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:39:10: not found: value time[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(time.pattern.matcher(b2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:42:10: not found: value time[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(time.pattern.matcher(b3).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:45:10: not found: value phone[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(phone.pattern.matcher(c1).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:48:10: not found: value phone[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(phone.pattern.matcher(c2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:51:10: not found: value zip[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(zip.pattern.matcher(d1).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:54:10: not found: value zip[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(zip.pattern.matcher(d2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:57:10: not found: value comment[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(comment.pattern.matcher(e).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:61:10: not found: value comment[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(comment.pattern.matcher(e2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:64:10: not found: value numberPhrase[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(numberPhrase.pattern.matcher(f).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:68:10: not found: value numberPhrase[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(numberPhrase.pattern.matcher(f2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:72:10: not found: value roman[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(roman.pattern.matcher(g).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:76:10: not found: value roman[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(roman.pattern.matcher(g2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:80:10: not found: value roman[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(roman.pattern.matcher(g3).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:83:10: not found: value date[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(date.pattern.matcher(h1).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:86:10: not found: value date[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(date.pattern.matcher(h2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:89:10: not found: value date[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(date.pattern.matcher(h3).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/test/scala/Tests.scala:92:10: not found: value evenParity[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(evenParity.pattern.matcher("00010357").matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0m21 errors found[0m

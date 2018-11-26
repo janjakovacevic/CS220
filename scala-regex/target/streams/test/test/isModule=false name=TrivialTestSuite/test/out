@@ -1,0 +1,39 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTrivialTestSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The Regexes object must be defined[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- b1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- b2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- b3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- c1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- c2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- d1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- d2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- e[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- f[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- f2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- g[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- g2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- g3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- h1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- h2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- h3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- h4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- z[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- time match works[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- comment match works[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- notAlphanumeric test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- notAlphanumeric test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- time test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- time test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- phone number test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- phone number test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- zip test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- zip test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- zip test 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- comment test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- comment test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- numberPhrase test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- roman test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- date test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- evenParity test[0m[0m
