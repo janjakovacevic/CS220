@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- oddNumbers properly defined[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test sumDouble[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test removeZeroes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test countEvens[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test removeAlternating[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test isAscending[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test addSub[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test alternate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test fromTo[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test insertOrdered[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test sort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test allLT[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test allGTE[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test quickSort[0m[0m

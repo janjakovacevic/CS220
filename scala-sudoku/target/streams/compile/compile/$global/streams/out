@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-sudoku/src/main/scala/Main.scala:79:26: not found: value value[0m
+[0m[[0m[31merror[0m] [0m[0m			new Board(placeHelper(value, peers(row, col), available+((row, col) -> List(num))))[0m
+[0m[[0m[31merror[0m] [0m[0m			                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-sudoku/src/main/scala/Main.scala:111:31: not found: value head[0m
+[0m[[0m[31merror[0m] [0m[0m        if(h.solve() != None) head.solve()[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
