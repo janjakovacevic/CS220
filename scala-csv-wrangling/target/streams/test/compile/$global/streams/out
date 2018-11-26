@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-csv-wrangling/src/test/scala/Tests.scala:103:46: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int(0)[0m
+[0m[[0m[31merror[0m] [0m[0m required: SSARow[0m
+[0m[[0m[31merror[0m] [0m[0m    assertThrows[Exception]{mostPopular(List(0,0))}[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-csv-wrangling/src/test/scala/Tests.scala:103:48: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int(0)[0m
+[0m[[0m[31merror[0m] [0m[0m required: SSARow[0m
+[0m[[0m[31merror[0m] [0m[0m    assertThrows[Exception]{mostPopular(List(0,0))}[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,17 @@
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-csv-wrangling/src/main/scala/Main.scala:18:35: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method estimatePopulation in object Main of type (rows: List[SSARow], year: Int, lifeExpectancies: List[CDCRow])Int[0m
+[0m[[0m[31merror[0m] [0m[0mand  method estimatePopulation in object Main of type (rows: List[SSARow], year: Int, lifeExpectancies: List[CDCRow])Int[0m
+[0m[[0m[31merror[0m] [0m[0mmatch argument types (List[SSARow],Int,List[CDCRow])[0m
+[0m[[0m[31merror[0m] [0m[0m        case true => head.count + estimatePopulation(tail, year, lifeExpectancies)[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-csv-wrangling/src/main/scala/Main.scala:19:23: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method estimatePopulation in object Main of type (rows: List[SSARow], year: Int, lifeExpectancies: List[CDCRow])Int[0m
+[0m[[0m[31merror[0m] [0m[0mand  method estimatePopulation in object Main of type (rows: List[SSARow], year: Int, lifeExpectancies: List[CDCRow])Int[0m
+[0m[[0m[31merror[0m] [0m[0mmatch argument types (List[SSARow],Int,List[CDCRow]) and expected result type Int[0m
+[0m[[0m[31merror[0m] [0m[0m        case false => estimatePopulation(tail, year, lifeExpectancies)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-csv-wrangling/src/main/scala/Main.scala:83:7: method estimatePopulation is defined twice;[0m
+[0m[[0m[31merror[0m] [0m[0m  the conflicting method estimatePopulation was defined at line 14:7[0m
+[0m[[0m[31merror[0m] [0m[0m  def estimatePopulation(rows: List[SSARow], year: Int,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
